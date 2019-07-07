@@ -1,2 +1,3 @@
 text
 line added directly from ghithub in commit #2
+Line added in local editor for commit #3
