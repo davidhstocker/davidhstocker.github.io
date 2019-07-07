@@ -1,3 +1,4 @@
 text
 line added directly from ghithub in commit #2
 Line added in local editor for commit #3
+line added in github.  Need to pull this to laptop.  Commit #4
